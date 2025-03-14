@@ -7,7 +7,7 @@ Portfólio de Lucas Rodrigues, mostrando minhas especialidades, alguns de meus p
 -CSS;
 -JavaScript.
 
-#Como Rodar o Projeto
+## Como Rodar o Projeto
 1. Clone o repositório
 ```bash
 git clone https://github.com/lucasrodrigues117/PW-Site.git
